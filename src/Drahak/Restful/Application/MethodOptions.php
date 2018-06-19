@@ -12,7 +12,7 @@ use Traversable;
  * @package Drahak\Restful\Application
  * @author Drahomír Hanák
  */
-class MethodOptions extends Object
+class MethodOptions
 {
 
 	/** @var IRouter */

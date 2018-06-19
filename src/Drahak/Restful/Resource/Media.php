@@ -11,7 +11,7 @@ use Nette\Utils\MimeTypeDetector;
  * @property-read string $content
  * @property-read string $contentType
  */
-class Media extends Object
+class Media
 {
 
 	/** @var string */

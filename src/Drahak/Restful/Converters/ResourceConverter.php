@@ -8,7 +8,7 @@ namespace Drahak\Restful\Converters;
  *
  * @property-read IConverter[] $converters
  */
-class ResourceConverter extends Object
+class ResourceConverter
 {
 
 	/** @var IConverter[] */

@@ -14,7 +14,7 @@ use Nette\Http\IResponse;
  * @package Drahak\Restful\Application
  * @author Drahomír Hanák
  */
-class MethodHandler extends Object
+class MethodHandler
 {
 
 	/** @var IRequest */

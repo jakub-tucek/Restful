@@ -9,7 +9,7 @@ use Drahak\Restful\Security\Process\AuthenticationProcess;
  * @package Drahak\Restful\Security
  * @author Drahomír Hanák
  */
-class AuthenticationContext extends Object
+class AuthenticationContext
 {
 
 	/** @var AuthenticationProcess */

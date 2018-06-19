@@ -12,7 +12,7 @@ namespace Drahak\Restful\Validation;
  * @property string $expression
  * @property array $argument
  */
-class Rule extends Object
+class Rule
 {
 
 	/** @var string */
