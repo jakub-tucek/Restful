@@ -3,7 +3,6 @@ namespace Drahak\Restful\Security;
 
 use Drahak\Restful\Http\IInput;
 use Drahak\Restful\Security\Process\AuthenticationProcess;
-use Nette\Object;
 
 /**
  * AuthenticationContext determines which authentication process should use

@@ -1,7 +1,6 @@
 <?php
 namespace Drahak\Restful\Converters;
 
-use Nette\Object;
 
 /**
  * ResourceConverter

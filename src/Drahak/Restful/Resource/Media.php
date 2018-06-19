@@ -1,8 +1,6 @@
 <?php
 namespace Drahak\Restful\Resource;
 
-use Nette\Object;
-use Nette\Templating\Helpers;
 use Nette\Utils\MimeTypeDetector;
 
 /**
