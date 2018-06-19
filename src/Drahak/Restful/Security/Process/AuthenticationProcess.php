@@ -1,7 +1,6 @@
 <?php
 namespace Drahak\Restful\Security\Process;
 
-use Nette\Object;
 use Drahak\Restful\Http\IInput;
 
 /**

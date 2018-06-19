@@ -1,15 +1,13 @@
 <?php
 namespace Drahak\Restful\Application\Events;
 
-use Drahak\Restful\Application\MethodOptions;
 use Drahak\Restful\Application\BadRequestException;
-use Drahak\Restful\Application\Routes\ResourceRoute;
+use Drahak\Restful\Application\MethodOptions;
 use Drahak\Restful\Http\Request;
 use Nette\Application\Application;
 use Nette\Application\BadRequestException as NetteBadRequestException;
 use Nette\Http\IRequest;
 use Nette\Http\IResponse;
-use Nette\Object;
 
 /**
  * MethodHandler

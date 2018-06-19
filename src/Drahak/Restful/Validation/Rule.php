@@ -1,11 +1,6 @@
 <?php
 namespace Drahak\Restful\Validation;
 
-use Nette\Object;
-use Nette\Forms\Form;
-use Nette\Utils\Strings;
-use Nette\Utils\Validators;
-
 /**
  * Validation Rule caret
  * @package Drahak\Restful\Validation
